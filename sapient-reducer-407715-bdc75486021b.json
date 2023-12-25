@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sapient-reducer-407715",
+  "private_key_id": "bdc75486021b41b134acd9784d6456c31d110a54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIsjDYdp6Ni9aH\n/3t1XbYUBsVcl9foqXtl+mi5XUNeP5KN6e8iWLmjy16iOpQSOKibUDskhqOm8b2X\nt3iVkT69ypiV60j3p0e9IrcYmOJmiLo4Sd4wudLRtPS+jFtaRjfLjCk9fs6+tYNT\n+1JMXmtjthF6EOLgsl9VvtOONR4sRqrUSwhluc8tbwoJDwksZ+fHWqhhrcjtkzgK\nTSVIFuMrEDSZsMlqAisAQyf1+MiHNanZv+BLIoRfeKda8PiEY/zD2MIzvM2wM5TV\neE3jNo+Xup2l3V4bELCo7zLJNtAx2UkNP9t2OPTBa53kB3mwQGk1OikJtEZBE622\nMzvxFsgfAgMBAAECggEAD6xKwDzTOP6YrFo5S/sbgwjcVNTO2a6Som4hy4gLAMs6\nKLcCI86GANKa+1RTx/CAylBDriCNmzX5tmVvl06Wdb/ilqKfOifoJE8XuWYHGDbJ\nRCgQoAGDAzl8e3z+jVg6dzzk45aJkr8eGGriDHC7Njg7uSqkbSPA6jNS1iIzzwU6\nUe7owWaiv83b9+edc00vyN8JvGxq9l5D2Ga0A122qqC8Gz9qAwrMxKo6khlBWWJM\nqwCfyc710eIAoWu+I43ukePeRX1BfR2SCGSzm8NM0+icgypkzuIjzQhVymTRgY9g\nJA+bCIrEruSnnh85uDqElwc9Kq8yMV0VLI93bm3EQQKBgQDvGim5gGjnKkul6g0k\ny3vxAleaNWnFzOtVtIQ7Y+nbkXJrqt/GfkY+sD0q98R4Ac271F5TELAtkCWhH9Y8\n4Apnwff+yxLrcMzvdcxCL9bRlMIaIes1V0MWma9nxmgPSTIAKltlhnDdbw1BYDCi\nfzPkwRLiF8poAYGOMP07G9GqkQKBgQDW4S8UQeH0mF25qpUuj87l9coz6iHUXrf6\nz7R8JR1sBbBBYXw3HlAwxB5vnxNt5o++IyDJbiEgPxOshlCtEkoR3XEck2dorn3M\nMNEo/ShKgYxZtdHyrgwXjMqbJ+REV1pFA1FZN9HVabX4Vkd+FYa5ZagEhdprE0or\nCu5gLPG/rwKBgQDmnbp+1C7aP/5E4fGZerZpqBOshjYl9VdLC9i6m8zU3X2aAW7i\nuaqxDjWBOwcBpOO1dckgnyj+WVkiBl4RyxneJ8U1uNLfyaWwlVLUx+WPscZhhDOj\n+C2aH9OB6Wk2zSdv52rOCpTTzyfe1ZMzODNqQRsgfUfZdxJpfjDRESzyMQKBgDcR\nEDqVw60mGubI02BSVEhUW9RADRlaiLWK4wrpjAex0YB/1hBeAVjt+YrLbnQ8oNuu\nLunQAkc8QvN0nFouFLNNV35mPBr0lKJuZDun3NpzJp+a28ngVpL2brmiWHo3FJgZ\nCJDfoDOb2plgqwOhypvadFtsXhQQpnIvY/VbrzxbAoGAS1307TU07xBFpeEwDltU\nyvpUk6xeCDNPI/7R2kfz0Ft/SeFanHjDFruqxpo3mc+xbukUzN1vdyDqLwjKhkID\n3qksXJuaE4guDY31qKV4HuxANEI6VqaNeU1UQ2J+2xsE/DG9uvFrvVXjqpJUCiFN\nTOWgQm64SXCEHZmdwh6JfxM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "icbot-708@sapient-reducer-407715.iam.gserviceaccount.com",
+  "client_id": "104505838007115694485",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/icbot-708%40sapient-reducer-407715.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

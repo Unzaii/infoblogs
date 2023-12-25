@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "banded-plateau-407715",
+  "private_key_id": "201d6670e627789ee91b00ef1034f9f18535b0a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5In/FUrTOs0Lm\nWSwmY8S2tpBN8QR5d3NLtoqywSDT7lai4Vuooglia+mLl7dNsOwrhz5Hcv2Gfyck\nV7alabqrLYr6E9CaUX8SJgihZL7+IePZTiaBiaVjHfbsb43XvPh/j9mEzmEP7Zxy\nkP+E76EyNg/GDN/wnjQxii3JJ4eF6TJhePUGOTGepyluhbSnbGmAWqBqEYAwICSO\n+eR6onJxorvnIBBWWiqpCQiwWrNGrG0O0Lv0mbBEUMQ1kqO4TDSz2Pa0vHTvrHLe\ntBl3d7zlIhhwYETsK56RUsrQYb7emLhSEh5rhNtygrbVPJMV9T2nxboZTOe/YuSb\nV7sDI4B5AgMBAAECggEATRwN7MGIdmlarXepuGmoltOOYjBHRVJXzsq+lTp0cmEc\na6YCl8e5sekxcodj/TN6Ap1Hdtnxt7HBO1VfSSEy8zY6YvOa2JOmIgh+Yr6EAHRc\nIvf2eNC8dn6WCJ9kDF30gKkJF9QfwFMe7Obwzk1CrhevVTWqll1GbvXXISfaPg8P\nkjUGjm96RKVAcWHTvIQ4mGmb8/krGFHiXco6D4jXLKDt1ZhSFIQ22pxYuLqhKS+A\nzd/DjHtbYkQgyg0JWP4UkIZhhQCW5yoNJM9Au/Zh4qOcP66mBmHgq9/gK2AQIyg6\nEBw6FeqCyQ+lzrfQUjJooPlPk0mQXaBPOLBhJydRMwKBgQDr3uBVvzNDErhGiZwb\nWDKJIKGRLmh2nd+vn7u5X7+iquspxErx97aq8sCLyFcuRNZIFLYLsFa4XoOBRvma\nzPNkTskDUhDUCvFFdgyloEGSVGuaZws9yy4/ekKt5nFALkcoUTS/akOqTR/hjt37\nHi5LSAm85OF6+GgLrG+ZuB5H2wKBgQDI7y8jyov8b1yD7lcMqDIO9detRiAkwniz\n2TilVk8czCHWwOo2wo3qXaspHQu7QQz50+Lh7s4/5SssJmWSQfekmKKY2x8/Vzlm\nTM9yWPPaNc1wF7NxoXdzZZfijJMJwD6bRLq+bzUKTelBmjd+jCDvXoeefsHGo+N7\neM1uU+IjOwKBgQDBC6rDwzcrYDjd0manoqnJvaE+d6Mb4d5fmPZFo+3uLsFFb9h+\n7WTdyMx6Gz/vKHvQhtLwAiUXxJMQzYwgfDmAEVNHmnUXdtU9Kn7zV5QTNXDT8B4t\nNwvk/CVyurZZ9wZaIwxu1YQH8BN1wj4/9tWg25bMuO8qfAB7/WdhgmWWHQKBgCXt\nD4a/6mBBXMMCL6gR7zDnskfgXpzRoBrCO3Dps5EJ7rEsRIkFe+fqui3Ob7JuetaE\n6eQfQQrKZLW2oaFTljyZGsejRGiePBVVFirNI2nikd5AevxNr9A2Ms7uHarPgIGq\nHV1ofChvwEFDrInURTspKov9/PFTadKaYJwcdSiVAoGAD4/9NSa6cvX+9IZT+d21\nFE4I6zW2uyiqP+582uDDeUwJDLSKXtG13wHWtMgfuMQw5RbHh8LeJvR456bWR7qK\nVtMFR+NJnT7GNKsgAgZVen2sG+VNbdBGhByMeTAebP5guZd1shW7n4MrSoDvFzYL\nwYkRZaOVlRVoW+fM8oGkVpY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "icbot-961@banded-plateau-407715.iam.gserviceaccount.com",
+  "client_id": "101776610894020278836",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/icbot-961%40banded-plateau-407715.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
